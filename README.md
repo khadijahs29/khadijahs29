@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi
+I am a first year student at Lehigh University (Class of 2029) and am majoring in Biostatistics & Health Data Science
+
+Contact information:
+kns229@lehigh.edu
+
 
 <!--
 **khadijahs29/khadijahs29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
