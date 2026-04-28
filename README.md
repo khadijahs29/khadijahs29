@@ -1,4 +1,4 @@
-## Hi
+## Khadijah Spall
 I am a first year student at Lehigh University (Class of 2029) and am majoring in Biostatistics & Health Data Science
 
 Contact information:
